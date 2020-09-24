@@ -1,8 +1,6 @@
-### Hi there, I'm Haziq Hapiz 👋
+## Hi there, I'm Haziq Hapiz 👋
 
-## I'm a proud Son!
-
-- 🔭 I’m currently studying at Universiti Teknikal Malaysia Melaka [UTeM][https://utem.edu.my]
+- 🔭 I’m currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
 - 🌱 Loved to learning everything except biology 🤣
 - 👯 I’m looking to collaborate with others for learning purpose (and money?)
 - 🥅 2020 Goals: Start freelancing project
@@ -48,6 +46,7 @@
 
 </details> -->
 
+[utem]: https://utem.edu.my
 [website]: https://zyqhpz.github.io
 [twitter]: https://twitter.com/zyqhpz
 [youtube]: https://youtube.com/haziqhapiz

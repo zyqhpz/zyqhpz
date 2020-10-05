@@ -1,7 +1,7 @@
 ## Hi there, I'm Haziq Hapiz 👋
 
 - 🔭 I’m currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
-- 🌱 Loved to learning everything except biology 🤣
+- 🌱 Loved to learn everything except biology 🤣
 - 👯 I’m looking to collaborate with others for learning purpose (and money?)
 - 🥅 2020 Goals: Start freelancing project
 - ⚡ Fun fact: Currently rank Archon I in DoTA 2

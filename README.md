@@ -4,7 +4,7 @@
 - 🌱 Love to learn everything except biology 🤣
 - 👯 Keen to collaborate with others for learning purpose (and money?)
 - 🥅 2021 Goals: Start freelancing project
-- ⚡ Fun fact: Currently rank Archon II in DoTA 2
+- 🎮 Fun fact: Currently rank Archon II in DoTA 2
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->

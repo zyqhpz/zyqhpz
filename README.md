@@ -3,7 +3,7 @@
 - 🔭 Currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
 - 🌱 Love to learn everything except biology 🤣
 - 👯 Keen to collaborate with others for learning purpose (and money?)
-- 🥅 2021 Goals: Start freelancing project
+- 🥅 2022 Goals: Contribute in open-source project
 - 🎮 Fun fact: Currently rank Archon II in DoTA 2
 
 <!-- ### Spotify Playing 🎧

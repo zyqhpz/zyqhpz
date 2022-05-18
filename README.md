@@ -39,6 +39,9 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=zyqhpz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Haziq's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyqhpz&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyqhpzy&count_private=true&theme=radical" alt="Jas-Script" />
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>

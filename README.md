@@ -2,12 +2,9 @@
 
 - 🔭 Currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
 - 🌱 Love to learn everything except biology 🤣
-- 👯 Keen to collaborate with others for learning purpose (and money?)
-- 🥅 2022 Goals: Contribute in open-source project
-- 🎮 Fun fact: Currently rank Archon II in DoTA 2
-
-<!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+- 👯 Keen to collaborate with others for learning purposes
+- 🥅 2022 Goals: Get internship opportunity from the dream company
+- 🎮 Fun fact: Playing in DoTA 2
 
 ### Connect with me:
 
@@ -42,12 +39,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zyqhpz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Haziq's GitHub Stats">
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyqhpz&count_private=true&theme=radical" alt="Jas-Script" />
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
 
 [utem]: https://utem.edu.my
 [website]: https://zyqhpz.github.io

@@ -3,7 +3,7 @@
 - 🔭 Currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
 - 🌱 Love to learn everything except biology 🤣
 - 👯 Keen to collaborate with others for learning purposes
-- 🥅 2022 Goals: Get internship opportunity from the dream company
+- 🥅 2023 Goals: Get an internship opportunity from the dream company
 - 🎮 Fun fact: Playing in DoTA 2
 
 ### Connect with me:

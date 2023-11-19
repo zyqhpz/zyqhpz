@@ -38,8 +38,6 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=zyqhpz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Haziq's GitHub Stats">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyqhpz&count_private=true&theme=radical" alt="Jas-Script" />
-
 
 [utem]: https://utem.edu.my
 [website]: https://zyqhpz.github.io

@@ -3,17 +3,13 @@
 - 🔭 Currently studying at Universiti Teknikal Malaysia Melaka ([UTeM][utem]) in Bachelor of Computer Science (Software Development)
 - 🌱 Love to learn everything except biology 🤣
 - 👯 Keen to collaborate with others for learning purposes
-- 🥅 2023 Goals: Get an internship opportunity from the dream company
-- 🎮 Fun fact: Playing in DoTA 2
+- 🥅 2024 Goals: Finish my degree and land a dream first job
 
 ### Connect with me:
 
 [<img align="left" alt="zyqhpz.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Haziq Hapiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Haziq Hapiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Haziq Hapiz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Haziq Hapiz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br />
 
 ### Programming Languages and Tools:

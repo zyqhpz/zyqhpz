@@ -17,6 +17,4 @@
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=react%2Creact%2C61DAFB%3Bgo%2Cgolang%2C00ADD8%3Bjavascript%2Cjavascript%2CF7DF1E%3Bpython%2Cpython%2C3776AB%3B&line2=docker%2Cdocker%2C2496ED%3Bmongodb%2Cmongodb%2C47A248%3Bmysql%2Cmysql%2C4479A1%3Bpostgresql%2Cpostgresql%2C4169E1%3B" alt="My Tech Stack" />
 
-<br />
-
 ---

@@ -1,5 +1,6 @@
 ## Hi there, I'm Haziq Hapiz 👋
 
+
 - 🌱 Love to learn everything except biology ☝🏻
 - 👯 Keen to collaborate with others for learning purposes
 - 🥅 2024 Goals: Finish my degree and land a dream first job
@@ -19,5 +20,3 @@
 <br />
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=zyqhpz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Haziq's GitHub Stats">

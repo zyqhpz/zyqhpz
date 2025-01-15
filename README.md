@@ -3,15 +3,13 @@
 
 - 🌱 Love to learn everything except biology ☝🏻
 - 👯 Keen to collaborate with others for learning purposes
-- 🥅 2024 Goals: Finish my degree and land a dream first job
+- 🥅 2025 Goals: Building high-impact solutions for worldwide problems
 
-<p align="left"> <a href="https://twitter.com/haziqhapiz" target="blank"><img src="https://img.shields.io/twitter/follow/haziqhapiz?logo=twitter&style=for-the-badge" alt="haziqhapiz" /></a> </p>
 <p align="left"> <a href="https://zyqhpz.github.io" target="blank"><img src="https://img.shields.io/badge/zyqhpz.github.io-FF2D20?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="haziqhapiz" /></a> </p>
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/haziqhapiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haziqhapiz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haziqhapiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haziqhapiz" height="30" width="40" /></a>
 </p>
 

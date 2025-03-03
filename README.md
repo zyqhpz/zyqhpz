@@ -5,14 +5,18 @@
 - 👯 Keen to collaborate with others for learning purposes
 - 🥅 2025 Goals: Building high-impact solutions for worldwide problems
 
-<p align="left"> <a href="https://zyqhpz.github.io" target="blank"><img src="https://img.shields.io/badge/zyqhpz.github.io-FF2D20?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="haziqhapiz" /></a> </p>
-
-### Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/haziqhapiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haziqhapiz" height="30" width="40" /></a>
+<p align="left"> <a href="https://zyqhpz.github.io" target="blank"><img src="https://img.shields.io/badge/zyqhpz.github.io-FF2D20?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="haziqhapiz" /></a>
+<a href="https://www.linkedin.com/in/haziqhapiz/" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge" alt="haziqhapiz" /></a>
 </p>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=react%2Creact%2C61DAFB%3Bgo%2Cgolang%2C00ADD8%3Bjavascript%2Cjavascript%2CF7DF1E%3Bpython%2Cpython%2C3776AB%3B&line2=docker%2Cdocker%2C2496ED%3Bmongodb%2Cmongodb%2C47A248%3Bmysql%2Cmysql%2C4479A1%3Bpostgresql%2Cpostgresql%2C4169E1%3B" alt="My Tech Stack" />
+### My expertise⚡
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,golang,javascript,typescript,react,next,docker,mongodb,mysql,postgresql,oracle&theme=light"
+    />
+  </a>
+</p>
 
 ---

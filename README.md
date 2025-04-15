@@ -1,7 +1,7 @@
 ## Hi there, I'm Haziq Hapiz 👋
 
 
-- 🌱 Love to learn everything except biology ☝🏻
+- 🌱 Love to learn everything
 - 👯 Keen to collaborate with others for learning purposes
 - 🥅 2025 Goals: Building high-impact solutions for worldwide problems
 

@@ -21,7 +21,7 @@
 
 ### :hammer: Projects
 
-| Project                   | Live Link                                         | Github                                                          |
+| Project                   | Live Link                                         | GitHub                                                          |
 |---------------------------|---------------------------------------------------|-----------------------------------------------------------------|
 | Portfolio | [haziqhapiz.my](https://haziqhapiz.my) | [GitHub](https://github.com/zyqhpz/zyqhpz.github.io) |
 | Kira Pelaburan | [kira-pelaburan.vercel.app](https://kira-pelaburan.vercel.app/) | [GitHub](https://github.com/zyqhpz/kira-pelaburan) |
